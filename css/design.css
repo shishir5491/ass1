@@ -1,0 +1,63 @@
+*{
+	margin: 0px;
+}
+
+body{
+	background: url(../images/o.jpg);
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container{
+	margin: 10% auto;
+	width: 400px;
+}
+
+.forget-html{
+	padding: 20px;
+	background-color: white;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+
+.forget-html h2{
+	text-align: center;
+	font-size: 30px;
+	font-weight: 400px;
+	margin-bottom: 20px;
+}
+
+.forget-html p{
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+
+.form-control{
+	width: 96%;
+	border: 1px solid black;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	height:35px;
+}
+
+.submit-btn{
+	width: 96%;
+	border: 1px solid black;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	height: 35px;
+}
+
+.submit-btn:hover{
+	cursor: pointer;
+	background-color: #285295;
+}
+
+.forget-html hr{
+	margin-bottom: 20px;
+}
+.forget-html a{
+	text-underline-position: none;
+	text-align: center;
+}
